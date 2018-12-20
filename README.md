@@ -18,5 +18,6 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 ## Breweries with Recipe Blueprints
 
+- [Boulevard Brewing](https://www.boulevard.com/beer/our-beers)
 - [Deschutes Brewery](https://www.deschutesbrewery.com/beer/)
 
