@@ -13,6 +13,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 - [Avery Brewing](https://www.averybrewing.com/beers)
 - [Ballast Point Brewing](https://www.ballastpoint.com/beer-recipes)
+- [Barebottle Brewing](https://www.barebottle.com/recipes)
 - [Brewdog Brewing](https://www.brewdog.com/usa/lowdown/diydog)
 - [Gigantic Brewing](https://www.giganticbrewing.com/pages/gigantic-beer-recipes)
 - [Mad Tree Brewing](https://www.madtreebrewing.com/beer-categories)
