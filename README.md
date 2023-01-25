@@ -17,6 +17,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 - [Brewdog Brewing](https://www.brewdog.com/usa/lowdown/diydog)
 - [Gigantic Brewing](https://www.giganticbrewing.com/pages/gigantic-beer-recipes)
 - [Mad Tree Brewing](https://www.madtreebrewing.com/beer-categories)
+- [Mutantis Brewing](https://mutantis.beer/recipes)
 
 ## Breweries with Recipe Blueprints
 
